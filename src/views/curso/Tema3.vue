@@ -27,7 +27,7 @@
           .col-lg-7.col-xl-8.mb-4.mb-md-0.order-2
             h4 Constitución Política de Colombia
             p La Constitución Política de Colombia de 1991, es la norma fundamental que consagra el derecho al trabajo digno en su Artículo 25, el cual establece que "toda persona tiene derecho a un trabajo en condiciones dignas y justas".
-            p ste principio se extiende a la regulación del salario, estableciendo un piso mínimo para garantizar el bienestar de los trabajadores. 
+            p Este principio se extiende a la regulación del salario, estableciendo un piso mínimo para garantizar el bienestar de los trabajadores. 
 
     
           .col-md-8.col-lg-5.col-xl-4.order-1.mb-3.mb-lg-0
